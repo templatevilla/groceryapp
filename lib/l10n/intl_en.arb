@@ -1,0 +1,12 @@
+{
+  "getStarted": "Get Started",
+  "weHelpYouToBuyFreshGroceryFromYourHome": "We help you to buy fresh grocery from your home. eat fresh and stay healthy.",
+  "buyGroceriesEasillyWithUs": "Buy Groceries Easilly With us",
+  "dataitemcountItems": "${data.itemCount!} items",
+  "selectCategories": "Select Categories",
+  "searchCategories": "Search Categories",
+  "dataweightkg": "${data.weight}KG",
+  "searchFruits": "Search Fruits",
+  "fruits": "Fruits",
+  "inavalid": "inavalid"
+}
