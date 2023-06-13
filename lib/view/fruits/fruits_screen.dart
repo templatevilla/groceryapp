@@ -76,7 +76,8 @@ class _FruitScreenState extends State<FruitScreen> {
                             getAssetImage(data.image!,height: 109.h,width: double.infinity),
                             getCustomFont(data.name!, 16.sp, regularBlack, 1,fontWeight: FontWeight.w600),
                             getVerSpace(4.h),
-                            getCustomFont(S.of(context).dataweightkg, 12.sp, grayColor, 1,fontWeight: FontWeight.w400),
+                            getCustomFont(
+                                "${data.weight!} KG", 12.sp, grayColor, 1,fontWeight: FontWeight.w400),
                             getVerSpace(8.h),
                             getCustomFont(data.price!, 18.sp, regularBlack, 1,fontWeight: FontWeight.w600),
                           ],

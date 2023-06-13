@@ -66,7 +66,7 @@ class _HomeScreenState extends State<HomeScreen> {
                         children: [
                           getVerSpace(16.h),
                           getCustomFont(data.title!, 20.sp, regularBlack, 1,fontWeight: FontWeight.w600),
-                          getCustomFont(S.of(context).dataitemcountItems, 14.sp, grayColor, 1,fontWeight: FontWeight.w400),
+                          getCustomFont("${data.itemCount!} items", 14.sp, grayColor, 1,fontWeight: FontWeight.w400),
                         ],
                       ),
                       Align(alignment: Alignment.bottomCenter,child: getAssetImage(data.image!,height: 120.h,width: double.infinity)).paddingOnly(bottom: 8.h)
