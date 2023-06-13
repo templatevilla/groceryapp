@@ -1,4 +1,14 @@
-# new_grocery_app
+# new_grocery_app![templatevilla_github_grocery app_shot](https://github.com/templatevilla/groceryapp/assets/76429360/fb8d8110-80d4-475f-a7d0-6d7a34e4ba97)
+
+Watch Youtube Preview : https://youtu.be/oESoHDZL6J8
+
+
+For support : 
+
+Mail: templetevilla007@gmail.com
+
+Skype: Template villa
+
 
 A new Flutter project.
 
