@@ -70,10 +70,10 @@ class S {
     );
   }
 
-  /// `Buy Groceries Easilly With us`
+  /// `Buy Grocery Easily With us`
   String get buyGroceriesEasillyWithUs {
     return Intl.message(
-      'Buy Groceries Easilly With us',
+      'Buy Grocery Easily With us',
       name: 'buyGroceriesEasillyWithUs',
       desc: '',
       args: [],
